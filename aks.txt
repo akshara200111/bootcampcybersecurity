@@ -1,0 +1,8 @@
+Enter the city name: mexico
+-------------------------------------------------------------
+Weather Stats for - MEXICO  || 23 Jun 2021 | 03:29:08 PM
+-------------------------------------------------------------
+Current temperature is: 24.98 deg C
+Current weather desc  : moderate rain
+Current Humidity      : 81 %
+Current wind speed    : 1.89 kmph
